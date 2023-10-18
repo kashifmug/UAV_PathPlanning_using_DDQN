@@ -1,0 +1,6 @@
+ {
+  "movement_budget": 100,
+  "position_idx": 4,
+  "target_path": "example/scenarios/manhattan_cpp_target.png"
+}
+

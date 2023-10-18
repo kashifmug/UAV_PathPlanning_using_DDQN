@@ -1,0 +1,2 @@
+model_checkpoint_path: "manhattan32_cpp_unfinished"
+all_model_checkpoint_paths: "manhattan32_cpp_unfinished"
